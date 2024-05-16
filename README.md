@@ -1,6 +1,7 @@
-## Register No: 212223240104
-# Ex. No:1b 			Study of Client Server Chat Applications
 
+# Ex. No:1b 			Study of Client Server Chat Applications
+### NAME : NARESH.R
+### REG.NO :212223240104
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
@@ -122,7 +123,8 @@ while 1:
     print()
 ```
 ## Output:
-![Screenshot 2024-04-05 103017](https://github.com/22008837/ChatStudy/assets/120194155/eb98333c-39e4-4b1c-8976-8b6fcfb868a9)
+![image](https://github.com/feryjfgkuyfgewjfgew/ChatStudy/assets/150319377/086852c8-2f11-4257-89d3-b2198d6f24cd)
+
 
 ## Result:
 
